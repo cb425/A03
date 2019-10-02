@@ -35,7 +35,7 @@ Step 11:
 You can add files to Git when the "Add to Git" dialog opens. Select "Add". It then adds it to the local file system. Then commit you changes by selecting "Commit". You can also write a Commit message within the window.
 
 Step 12:
-Push Change to Remote Repository by selecting Ctrl > Shift > K. You can also do VCS > Git > Push. THe file is now on Github
+Push Change to Remote Repository by selecting Ctrl > Shift > K. You can also do VCS > Git > Push. The file is now on Github
 
 Step 13:
 Set up you Github pages by clicking Settings and checking the repository name. You can also rename the repository name on this page.
@@ -77,5 +77,5 @@ Merge Conflict: When you try to merge one branch into another, Git can figure ou
 
 Fetch: An API that provides a "JavaScript interface for accessing and manipulating parts of the HTTP pipeline, such as requests and responses" according to developer.mozilla.org
 
-Remote:Hidden/secluded. For example "Remote access is the ability to access a computer or a network remotely through a network connection", accourding to searchsecurity.techtarget.com
+Remote:Hidden/secluded. For example "Remote access is the ability to access a computer or a network remotely through a network connection", according to searchsecurity.techtarget.com
 
