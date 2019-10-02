@@ -49,6 +49,7 @@ Hendela, Arthur H. Ph.D. (2019) Introducton to Github and Webstorm. Retrieved Se
 
 ******************************************************************
 DEFINITIONS:
+
 Git: A distributed version-control system. It tracks changes in the cource code during software development, according to the website git-scm.com.
 
 GITHUB: A website/service that is an open source verson control system. The VCS keeps revision of source code in order, storing modificiation in a central repository.
