@@ -43,7 +43,8 @@ Set up you Github pages by clicking Settings and checking the repository name. Y
 Step 14:
 Choose Github Page Location, and under Source, select the master branch. You can now see the published URL. 
 
-References
+References:
+
 Hendela, Arthur H. Ph.D. (2019) Introducton to Github and Webstorm. Retrieved September 30, 2019, from https://njit.instructure.com/courses/5658/files/folder/Week03?preview=126988
 
 
