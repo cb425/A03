@@ -38,7 +38,7 @@ Step 12:
 Push Change to Remote Repository by selecting Ctrl > Shift > K. You can also do VCS > Git > Push. The file is now on Github
 
 Step 13:
-Set up you Github pages by clicking Settings and checking the repository name. You can also rename the repository name on this page.
+Set up your Github pages by clicking Settings and checking the repository name. You can also rename the repository name on this page.
 
 Step 14:
 Choose Github Page Location, and under Source, select the master branch. You can now see the published URL. 
